@@ -2,7 +2,7 @@
  * @Author: wenlongchen wwwchenwenlong@163.com
  * @Date: 2025-05-25 11:30:08
  * @LastEditors: wenlongchen wwwchenwenlong@163.com
- * @LastEditTime: 2025-05-25 11:31:35
+ * @LastEditTime: 2025-05-25 12:29:14
  * @FilePath: \halo_jiaqijiaoyu\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -89,4 +89,4 @@ Halo 使用 GPL-v3.0 协议开源，请遵守开源协议。
 ## 状态
 
 ![Repobeats analytics](https://repobeats.axiom.co/api/embed/ad008b2151c22e7cf734d2688befaa795d593b95.svg "Repobeats analytics image")
- 
+ cwl
